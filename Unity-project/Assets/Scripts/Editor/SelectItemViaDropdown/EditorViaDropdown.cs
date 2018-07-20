@@ -6,21 +6,21 @@ using System.Reflection;
 using UnityEditor;
 using UnityEngine;
 
-namespace Assets.Core.UiTests.Serialization.Editor
+namespace Editor.SelectItemViaDropdown
 {
-  [CustomEditor(typeof(UiTestElement))]
+  [CustomEditor(typeof(DropdownMonobehaviour))]
   public class UiTestElementEditor : UnityEditor.Editor
   {
-    private static string _testsPath = @"Assets\Core\UiTests\UiTestUnits";
+    private const string TypesPath = @"Assets\Scripts\DemoTypes";
 
-    private SerializedObject serializedObject { get { return new SerializedObject(target); } }
+    private SerializedObject SObject { get { return new SerializedObject(target); } }
 
     private string _methodName
     {
-      get { return serializedObject.FindProperty("_methodName").stringValue; }
+      get { return SObject.FindProperty("_methodName").stringValue; }
       set
       {
-        var so = serializedObject;
+        var so = SObject;
         so.FindProperty("_methodName").stringValue = value;
         so.ApplyModifiedProperties();
       }
@@ -28,10 +28,10 @@ namespace Assets.Core.UiTests.Serialization.Editor
 
     private string _typeName
     {
-      get { return serializedObject.FindProperty("_typeName").stringValue; }
+      get { return SObject.FindProperty("_typeName").stringValue; }
       set
       {
-        var so = serializedObject;
+        var so = SObject;
         so.FindProperty("_typeName").stringValue = value;
         so.ApplyModifiedProperties();
       }
@@ -51,7 +51,7 @@ namespace Assets.Core.UiTests.Serialization.Editor
     {
       DrawDefaultInspector();
 
-      var types = GetTestsTypes(_testsPath);
+      var types = GetTestsTypes(TypesPath);
       if(types == null)
         return;
 
@@ -95,8 +95,6 @@ namespace Assets.Core.UiTests.Serialization.Editor
           BindingFlags.Public |
           BindingFlags.Instance |
           BindingFlags.DeclaredOnly)
-          .Where(x => x.FieldType == typeof(UiTestObjectReference))
-          //.Where(prop => Attribute.IsDefined(prop, typeof(UiTestPropertyAttribute)))
           .ToArray();
 
         if (f.Any())
@@ -199,7 +197,7 @@ namespace Assets.Core.UiTests.Serialization.Editor
 
         foreach (var we in withoutExtention)
         {
-          var typeName = "Assets.Core.UiTests.UiTestUnits." + we + ", Assembly-CSharp";
+          var typeName = "DemoTypes." + we + ", Assembly-CSharp";
           var type = Type.GetType(typeName);
           if (type == null)
             continue;

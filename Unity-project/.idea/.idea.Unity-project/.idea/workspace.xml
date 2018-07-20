@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9768cf49-c031-4a02-b5eb-9d3af5f03f76" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../EditorViaDropdown.cs" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="EditorViaDropdown.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Editor/SelectItemViaDropdown/EditorViaDropdown.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="202" column="21" lean-forward="true" selection-start-line="202" selection-start-column="21" selection-end-line="202" selection-end-column="21" />
+              <folding>
+                <marker date="1532100103523" expanded="false" signature="6:146" ph="..." />
+                <marker date="1532100103523" expanded="true" signature="186:6107" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="292:6105" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="510:742" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="596:736" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="772:1000" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="856:994" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="1082:1285" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="1187:1279" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="1328:1895" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="1768:1813" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="1951:2154" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="2233:2827" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="2334:2584" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="2521:2576" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="2680:2790" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="2977:3170" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="3057:3089" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="3379:4671" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="3897:3971" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="4134:4454" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="4465:4665" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="4504:4581" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="4730:5480" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="4870:5453" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="4973:5026" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="5207:5445" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="5558:6101" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="5671:5748" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="5691:5740" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="5780:5858" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="5800:5850" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="5918:5981" ph="{...}" />
+                <marker date="1532100103523" expanded="true" signature="6022:6095" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DemoTypeOne.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Editor/SelectItemViaDropdown/DemoTypes/DemoTypeOne.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding>
+                <marker date="1532099550186" expanded="true" signature="68:120" ph="{...}" />
+                <marker date="1532099550186" expanded="true" signature="112:118" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DemoTypeTwo.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Editor/SelectItemViaDropdown/DemoTypes/DemoTypeTwo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+              <folding>
+                <marker date="1532099539346" expanded="true" signature="68:123" ph="{...}" />
+                <marker date="1532099539346" expanded="true" signature="113:121" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DropdownMonobehaviour.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DropdownMonobehaviour.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+              <folding>
+                <marker date="1532100042698" expanded="true" signature="58:276" ph="{...}" />
+                <marker date="1532100042698" expanded="true" signature="113:274" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_methodName</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/SelectItemViaDropdown/EditorViaDropdown.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/SelectItemViaDropdown/DemoTypes/DemoTypeTwo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/SelectItemViaDropdown/DemoTypes/DemoTypeOne.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE47F0EF-3905-4B88-834D-7BBA9BD997AE/5a/3e8d0ab6/Editor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DropdownMonobehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/SelectItemViaDropdown/DropdownMonobehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DropdownMonobehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/SelectItemViaDropdown/EditorViaDropdown.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/SelectItemViaDropdown/DemoTypes/DemoTypeTwo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/SelectItemViaDropdown/DemoTypes/DemoTypeOne.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Unity-project" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Unity-project" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Unity-project" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Unity-project" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Unity-project" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="21736">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="21736" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9768cf49-c031-4a02-b5eb-9d3af5f03f76" name="Default" comment="" />
+      <created>1532099341805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532099341805</updated>
+      <workItem from="1532099342970" duration="857000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="857000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32912722" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39957938" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Editor/SelectItemViaDropdown/EditorViaDropdown.cs</url>
+          <line>54</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Editor/SelectItemViaDropdown/EditorViaDropdown.cs" initialLine="54">
+            <startOffsets>
+              <startOffset value="1416" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1433" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Editor/SelectItemViaDropdown/EditorViaDropdown.cs</url>
+          <line>199</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Editor/SelectItemViaDropdown/EditorViaDropdown.cs" initialLine="199">
+            <startOffsets>
+              <startOffset value="5228" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="5312" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="UNITY_DEBUG_RUN_CONFIGURATION">
+        <watch expression="queue" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EditorViaDropdown.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Editor/SelectItemViaDropdown/DropdownMonobehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE47F0EF-3905-4B88-834D-7BBA9BD997AE/5a/3e8d0ab6/Editor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="154" column="30" selection-start-line="154" selection-start-column="30" selection-end-line="154" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Editor/SelectItemViaDropdown/DemoTypes/DemoTypeOne.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding>
+            <marker date="1532099550186" expanded="true" signature="68:120" ph="{...}" />
+            <marker date="1532099550186" expanded="true" signature="112:118" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Editor/SelectItemViaDropdown/DemoTypes/DemoTypeTwo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <marker date="1532099539346" expanded="true" signature="68:123" ph="{...}" />
+            <marker date="1532099539346" expanded="true" signature="113:121" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DropdownMonobehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <marker date="1532100042698" expanded="true" signature="58:276" ph="{...}" />
+            <marker date="1532100042698" expanded="true" signature="113:274" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Editor/SelectItemViaDropdown/EditorViaDropdown.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="202" column="21" lean-forward="true" selection-start-line="202" selection-start-column="21" selection-end-line="202" selection-end-column="21" />
+          <folding>
+            <marker date="1532100103523" expanded="false" signature="6:146" ph="..." />
+            <marker date="1532100103523" expanded="true" signature="186:6107" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="292:6105" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="510:742" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="596:736" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="772:1000" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="856:994" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="1082:1285" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="1187:1279" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="1328:1895" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="1768:1813" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="1951:2154" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="2233:2827" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="2334:2584" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="2521:2576" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="2680:2790" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="2977:3170" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="3057:3089" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="3379:4671" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="3897:3971" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="4134:4454" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="4465:4665" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="4504:4581" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="4730:5480" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="4870:5453" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="4973:5026" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="5207:5445" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="5558:6101" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="5671:5748" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="5691:5740" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="5780:5858" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="5800:5850" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="5918:5981" ph="{...}" />
+            <marker date="1532100103523" expanded="true" signature="6022:6095" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
